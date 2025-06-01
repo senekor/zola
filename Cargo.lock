@@ -5510,7 +5510,7 @@ dependencies = [
 
 [[package]]
 name = "zola"
-version = "0.20.0"
+version = "0.20.1-senekor"
 dependencies = [
  "clap 4.5.29",
  "clap_complete",
